@@ -1,0 +1,84 @@
+@font-face {
+    font-family: "Roboto Black";
+    src: url(../fonts/Roboto/Roboto-Black.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "Roboto Medium";
+    src: url(../fonts/Roboto/Roboto-Medium.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "Roboto Light";
+    src: url(../fonts/Roboto/Roboto-Light.ttf) format("truetype");
+}
+
+.green {
+    color: #60B669 !important;
+}
+
+.red {
+    color: #CC5252 !important;
+}
+
+.bleu {
+    color: #415C73 !important;
+}
+
+.silver {
+    color: #999999 !important;
+}
+
+.dimgrey {
+    color: #6a7480 !important;
+}
+
+.grey {
+    color: #6D7783 !important;
+}
+
+.slategrey {
+    color: #6B7581 !important;
+}
+
+.font-rb-30 {
+    font-family: 'Roboto Black';
+    font-size: 30px;
+    line-height: 35px;
+}
+
+.font-rb-25 {
+    font-family: "Roboto Black";
+    font-size: 25px;
+    line-height: 29px;
+}
+
+.font-rb-16 {
+    font-family: 'Roboto Black';
+    font-size: 16px;
+    line-height: 19px;
+}
+
+.font-rb-14 {
+    font-family: 'Roboto Black';
+    font-size: 14px;
+    line-height: 16px;
+}
+
+.font-rm-25 {
+    font-family: 'Roboto Medium';
+    font-size: 25px;
+    line-height: 29px;
+}
+
+.font-rm-19 {
+    font-family: 'Roboto Medium';
+    font-size: 19px;
+    line-height: 22px;
+}
+
+.font-rl-25 {
+    font-family: 'Roboto Light';
+    font-size: 25px;
+    line-height: 29px;
+}
